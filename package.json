@@ -1,21 +1,21 @@
 {
-    "name": "imagemin-webp-webpack-plugin",
-    "version": "1.0.2",
-    "description": "Webpack plugin which converts images to the WebP format while also keeping the original files.",
-    "license": "MIT",
-    "main": "plugin.js",
-    "keywords": [
-        "webpack",
-        "plugin",
-        "webp",
-        "imagemin",
-        "images"
-    ],
-    "repository": "https://github.com/iampava/imagemin-webp-webpack-plugin.git",
-    "bugs": "https://github.com/iampava/imagemin-webp-webpack-plugin/issues",
-    "homepage": "https://github.com/iampava/imagemin-webp-webpack-plugin",
-    "dependencies": {
-        "imagemin": "^6.0.0",
-        "imagemin-webp": "^4.1.0"
-    }
+  "name": "imagemin-webp-webpack-plugin",
+  "version": "1.0.2",
+  "description": "Webpack plugin which converts images to the WebP format while also keeping the original files.",
+  "license": "MIT",
+  "main": "plugin.js",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "webp",
+    "imagemin",
+    "images"
+  ],
+  "repository": "https://github.com/iampava/imagemin-webp-webpack-plugin.git",
+  "bugs": "https://github.com/iampava/imagemin-webp-webpack-plugin/issues",
+  "homepage": "https://github.com/iampava/imagemin-webp-webpack-plugin",
+  "dependencies": {
+    "imagemin": "bjoernsteinborn/imagemin#c574f91c4e676a56c8f7140677e300253b0c9856",
+    "imagemin-webp": "^4.1.0"
+  }
 }
