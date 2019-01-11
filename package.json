@@ -15,7 +15,7 @@
   "bugs": "https://github.com/iampava/imagemin-webp-webpack-plugin/issues",
   "homepage": "https://github.com/iampava/imagemin-webp-webpack-plugin",
   "dependencies": {
-    "imagemin": "bjoernsteinborn/imagemin#c574f91c4e676a56c8f7140677e300253b0c9856",
-    "imagemin-webp": "^4.1.0"
+    "imagemin": "^6.1.0",
+    "imagemin-webp": "^5.0.0"
   }
 }
